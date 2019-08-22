@@ -5,7 +5,7 @@ Up & Going Extension Pack is a collection of popular extensions that can help yo
 
 ## Extensions Included
 
-By installing Java Extension Pack, the following extensions are installed:
+By installing Up & Going Extension Pack, the following extensions are installed:
 
 - 📦 **Bracket Pair Colorizer 2**
 - 📦 **Docker**
