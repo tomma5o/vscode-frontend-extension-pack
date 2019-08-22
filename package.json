@@ -2,7 +2,7 @@
     "name": "frontend-extension-pack",
     "displayName": "Up & Going FrontEnd pack",
     "description": "Everything you need for Frontend development",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "tomma5o",
     "engines": {
         "vscode": "^1.26.0"
@@ -46,6 +46,7 @@
         "tomma5o.sassyah",
         "visualstudioexptteam.vscodeintellicode",
         "wallabyjs.quokka-vscode",
-        "shinnn.stylelint"
+        "shinnn.stylelint",
+        "joelday.docthis",
     ]
 }

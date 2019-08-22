@@ -23,6 +23,7 @@ By installing Up & Going Extension Pack, the following extensions are installed:
 - 📦 **Vetur**
 - 📦 **Visual Studio IntelliCode**
 - 📦 **YAML by Red Hat**
+- 📦 **Document This**
 
 And this theme are installed:
 
