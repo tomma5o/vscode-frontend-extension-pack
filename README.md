@@ -24,6 +24,8 @@ By installing Up & Going Extension Pack, the following extensions are installed:
 - 📦 **Visual Studio IntelliCode**
 - 📦 **YAML by Red Hat**
 - 📦 **Document This**
+- 📦 **Import Cost**
+- 📦 **SFTP Sync**
 
 And this theme are installed:
 

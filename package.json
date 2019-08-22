@@ -48,5 +48,6 @@
         "wallabyjs.quokka-vscode",
         "shinnn.stylelint",
         "joelday.docthis",
+        "wix.vscode-import-cost"
     ]
 }
