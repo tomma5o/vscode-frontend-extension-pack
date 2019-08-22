@@ -1,0 +1,51 @@
+{
+    "name": "frontend-extension-pack",
+    "displayName": "Up & Going FrontEnd pack",
+    "description": "Everything you need for Frontend development",
+    "version": "1.0.0",
+    "publisher": "tomma5o",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Other",
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#6682BA",
+        "theme": "dark"
+    },
+    "icon": "logo.png",
+    "homepage": "https://github.com/tomma5o/frontend-extension-pack/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/tomma5o/frontend-extension-pack/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tomma5o/frontend-extension-pack"
+    },
+    "extensionPack": [
+        "ahmadawais.shades-of-purple",
+        "atlassian.atlascode",
+        "coenraads.bracket-pair-colorizer",
+        "cssho.vscode-svgviewer",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "liximomo.sftp",
+        "ms-azuretools.vscode-docker",
+        "ms-vsliveshare.vsliveshare",
+        "octref.vetur",
+        "oliversturm.fix-json",
+        "pkief.material-icon-theme",
+        "redhat.vscode-yaml",
+        "slevesque.shader",
+        "tomma5o.sassyah",
+        "visualstudioexptteam.vscodeintellicode",
+        "wallabyjs.quokka-vscode",
+        "shinnn.stylelint"
+    ]
+}
